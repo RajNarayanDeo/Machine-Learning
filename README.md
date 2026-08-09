@@ -585,7 +585,7 @@ The project therefore demonstrates how machine learning models can be systematic
 
 **Raj Narayan Deo**
 
-Machine Learning Assignment 2
+Machine Learning
 
 **GitHub:**
 https://github.com/RajNarayanDeo/Machine-Learning
