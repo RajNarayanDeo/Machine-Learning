@@ -537,7 +537,7 @@ MCC provides a balanced measure of classification quality using all four confusi
 ## Live Streamlit Application
 
 **Live App:**
-[PASTE YOUR STREAMLIT COMMUNITY CLOUD APP LINK HERE]
+(https://machine-learning-gnbfppl7pme8xu7wje9vvh.streamlit.app/)
 
 The deployed application allows users to interactively:
 
