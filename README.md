@@ -112,9 +112,7 @@ Features were standardized using `StandardScaler` before training models that ar
 # 3. GitHub Repository
 
 **GitHub Repository:**
-[PASTE YOUR GITHUB REPOSITORY LINK HERE]
 
-For example:
 
 ```text
 https://github.com/RajNarayanDeo/Machine-Learning
